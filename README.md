@@ -1,9 +1,8 @@
-CoinFaucet
+CoinFaucet by AuraWallet - www.aurawallet.com
 ==========
-
 This is an open source project that allows any digital currency site to have their own Coin Faucet. 
 
-An Coin Faucet will allow new users to digital currency to obtain free currency. 
+An Coin Faucet will allow new users who are interested in digital currency to receive free coins.
 
 Features: (in progress)
 
